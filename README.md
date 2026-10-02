@@ -10,7 +10,7 @@ I don't spend too much time making things pretty. I'd rather make them work. :)
 
 ---
 
-## What I'm Interested In
+## What I'm Interested In (And Learning)
 
 - Backend Development
 - APIs & Distributed Systems

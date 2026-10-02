@@ -1,16 +1,90 @@
-## Hi there 👋
+# Hey, I'm Arsh 👋
 
-<!--
-**47arsh/47arsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech IT student at NIT Jalandhar who likes learning by building things.
 
-Here are some ideas to get you started:
+I enjoy taking an idea, figuring out how it should work, and building it myself. 
+I'm particularly interested in backend development — APIs, databases, authentication,
+system design, and the logic that makes applications work behind the scenes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I don't spend too much time making things pretty. I'd rather make them work. :)
+
+---
+
+## What I'm Interested In
+
+- Backend Development
+- APIs & Distributed Systems
+- Databases
+- System Design
+- Generative AI & RAG
+- Open Source
+- Problem Solving
+
+---
+
+## What I'm Working With
+
+**Languages**
+
+C++ · Python · JavaScript
+
+**Backend**
+
+Node.js · Express.js · FastAPI · REST APIs
+
+**Databases**
+
+MongoDB · PostgreSQL · ChromaDB
+
+**Frontend**
+
+React · Tailwind CSS
+
+**Other**
+
+Git · GitHub · LangChain · Google Gemini
+
+---
+
+## Some Things I've Built
+
+**CampusGigs**  
+A campus marketplace for posting and completing small tasks.
+
+**CodeCollab**  
+A real-time collaborative code editor built with Socket.IO.
+
+**RAG / PDF Knowledge Assistant**  
+A document question-answering system using embeddings, vector search and RAG.
+
+---
+
+## Currently Learning
+
+I'm currently exploring:
+
+- RAG and LLM applications
+- Agentic AI
+- System Design
+- Backend architecture
+- Open Source development
+
+---
+
+## A Little More About Me
+
+I like learning things that I can actually build with.
+
+Most of the time, that means starting with an idea, getting stuck somewhere,
+figuring out why it doesn't work, and eventually making it work.
+
+I also enjoy problem solving and have solved **800+ problems on LeetCode**.
+
+I'm still figuring out exactly what I want to specialize in — 
+so I'm trying different things and seeing what I enjoy.
+
+---
+
+## Connect
+
+[LeetCode](https://leetcode.com/u/arxhx7/)

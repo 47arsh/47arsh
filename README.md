@@ -45,14 +45,11 @@ React · Tailwind CSS
 ## Some Things I've Built
 
 **CampusGigs**  
-A campus errands marketplace for posting and completing small tasks.
+A campus errands marketplace for posting and completing small tasks. Added an ai-microservice than answers user-queries related to the platform.
 
 **CodeCollab**  
 A real-time collaborative code editor handling real-time conflict resolution built with Yjs, Socket.IO.
 
-**RAG / PDF Knowledge Assistant**  
-A document question-answering system using embeddings, vector search and RAG.
-Included this as an ai-microservice in the CampusGigs project
 ---
 
 ## Currently Learning

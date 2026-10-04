@@ -40,23 +40,19 @@ MongoDB · PostgreSQL · ChromaDB
 
 React · Tailwind CSS
 
-**Other**
-
-Git · GitHub · LangChain · Google Gemini
-
 ---
 
 ## Some Things I've Built
 
 **CampusGigs**  
-A campus marketplace for posting and completing small tasks.
+A campus errands marketplace for posting and completing small tasks.
 
 **CodeCollab**  
-A real-time collaborative code editor built with Socket.IO.
+A real-time collaborative code editor handling real-time conflict resolution built with Yjs, Socket.IO.
 
 **RAG / PDF Knowledge Assistant**  
 A document question-answering system using embeddings, vector search and RAG.
-
+Included this as an ai-microservice in the CampusGigs project
 ---
 
 ## Currently Learning
@@ -78,13 +74,12 @@ I like learning things that I can actually build with.
 Most of the time, that means starting with an idea, getting stuck somewhere,
 figuring out why it doesn't work, and eventually making it work.
 
-I also enjoy problem solving and have solved **800+ problems on LeetCode**.
+I also enjoy problem solving [LeetCode](https://leetcode.com/u/arxhx7/)
 
 I'm still figuring out exactly what I want to specialize in — 
 so I'm trying different things and seeing what I enjoy.
 
 ---
 
-## Connect
 
-[LeetCode](https://leetcode.com/u/arxhx7/)
+

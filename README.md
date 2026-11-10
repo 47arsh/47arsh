@@ -13,20 +13,18 @@ B.Tech IT student at **NIT Jalandhar** (graduating 2027). I like taking an idea,
 <!-- TODO(owner): verify this one-liner matches what the product actually does today -->
 A WhatsApp front desk for businesses: it handles incoming customer conversations so nothing waits until someone is free to reply. Built as a TypeScript pnpm monorepo with a Node API, Postgres and Redis.
 
----
 
 ## Open source
 
-**[YUI](https://github.com/YUI_ORG/YUI_REPO)** <!-- TODO(owner): replace with the real repo URL -->
+**[YUI](https://github.com/yw0nam/YUI)** <!-- TODO(owner): replace with the real repo URL -->
 
 - Fixed a turn-lifecycle bug where the "thinking" filler started even when the chat backend wasn't configured. The config guard now fails fast, and I added Vitest regression tests. ([#1237](https://github.com/YUI_ORG/YUI_REPO/pull/1237))
 - Fixed a streaming bug where a silent turn could send the same voice cue twice, through both the express event and the completed-turn fallback. ([#1251](https://github.com/YUI_ORG/YUI_REPO/pull/1251))
 
----
 
 ## Projects
 
-**[CampusGigs](https://github.com/arxhx7/CampusGigs)** <!-- TODO(owner): verify repo URL -->
+**[CampusGigs]** <!-- TODO(owner): verify repo URL -->
 A campus errands marketplace. Students post small tasks and others accept and complete them.
 - Real-time notifications with Socket.IO, persisted in MongoDB
 - Race-safe task acceptance using an atomic state transition, so two people can't claim the same task
@@ -34,14 +32,12 @@ A campus errands marketplace. Students post small tasks and others accept and co
 
 `React` `Node.js` `Express` `MongoDB` `Socket.IO` `FastAPI` `LangChain` `ChromaDB`
 
-**[CodeCollab](https://github.com/arxhx7/CodeCollab)** · [Live](https://YOUR_CODECOLLAB_LIVE_URL) <!-- TODO(owner): verify repo and live URLs -->
+**[CodeCollab]** <!-- TODO(owner): verify repo and live URLs -->
 A real-time collaborative code editor with isolated rooms.
 - Conflict-free concurrent editing using Yjs (CRDT), tested with 6+ clients across desktop and mobile
 - Sandboxed JavaScript execution with timeouts to stop runaway code
 
 `React` `Node.js` `Socket.IO` `Yjs` `CodeMirror`
-
----
 
 ## Stack
 

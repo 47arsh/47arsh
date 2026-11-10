@@ -1,82 +1,68 @@
 # Hey, I'm Arsh 👋
 
-I'm a B.Tech IT student at NIT Jalandhar who likes learning by building things.
+B.Tech IT student at **NIT Jalandhar** (graduating 2027). I like taking an idea, working out how it should behave, and building it end to end, with a focus on backend: APIs, databases, auth, real-time systems and the logic behind the screen.
 
-I enjoy taking an idea, figuring out how it should work, and building it myself. 
-I'm particularly interested in backend development — APIs, databases, authentication,
-system design, and the logic that makes applications work behind the scenes.
-
-I don't spend too much time making things pretty. I'd rather make them work. :)
+<!-- TODO(owner): add portfolio link once deployed -->
+🌐 Portfolio: coming soon &nbsp;·&nbsp;  🧩 [LeetCode](https://leetcode.com/u/arxhx7/)
 
 ---
 
-## What I'm Interested In (And Learning)
+## Currently building
 
-- Backend Development
-- APIs & Distributed Systems
-- Databases
-- System Design
-- Generative AI & RAG
-- Open Source
-- Problem Solving
+**[AnytimeDesk](https://anytimedesk.in)**
+<!-- TODO(owner): verify this one-liner matches what the product actually does today -->
+A WhatsApp front desk for businesses: it handles incoming customer conversations so nothing waits until someone is free to reply. Built as a TypeScript pnpm monorepo with a Node API, Postgres and Redis.
 
 ---
 
-## What I'm Working With
+## Open source
 
-**Languages**
+**[YUI](https://github.com/YUI_ORG/YUI_REPO)** <!-- TODO(owner): replace with the real repo URL -->
 
-C++ · Python · JavaScript
-
-**Backend**
-
-Node.js · Express.js · FastAPI · REST APIs
-
-**Databases**
-
-MongoDB · PostgreSQL · ChromaDB
-
-**Frontend**
-
-React · Tailwind CSS
+- Fixed a turn-lifecycle bug where the "thinking" filler started even when the chat backend wasn't configured. The config guard now fails fast, and I added Vitest regression tests. ([#1237](https://github.com/YUI_ORG/YUI_REPO/pull/1237))
+- Fixed a streaming bug where a silent turn could send the same voice cue twice, through both the express event and the completed-turn fallback. ([#1251](https://github.com/YUI_ORG/YUI_REPO/pull/1251))
 
 ---
 
-## Some Things I've Built
+## Projects
 
-**CampusGigs**  
-A campus errands marketplace for posting and completing small tasks. Added an ai-microservice than answers user-queries related to the platform.
+**[CampusGigs](https://github.com/arxhx7/CampusGigs)** <!-- TODO(owner): verify repo URL -->
+A campus errands marketplace. Students post small tasks and others accept and complete them.
+- Real-time notifications with Socket.IO, persisted in MongoDB
+- Race-safe task acceptance using an atomic state transition, so two people can't claim the same task
+- A RAG assistant (FastAPI, LangChain, ChromaDB, Gemini) that answers questions about the platform with source attribution
 
-**CodeCollab**  
-A real-time collaborative code editor handling real-time conflict resolution built with Yjs, Socket.IO.
+`React` `Node.js` `Express` `MongoDB` `Socket.IO` `FastAPI` `LangChain` `ChromaDB`
 
----
+**[CodeCollab](https://github.com/arxhx7/CodeCollab)** · [Live](https://YOUR_CODECOLLAB_LIVE_URL) <!-- TODO(owner): verify repo and live URLs -->
+A real-time collaborative code editor with isolated rooms.
+- Conflict-free concurrent editing using Yjs (CRDT), tested with 6+ clients across desktop and mobile
+- Sandboxed JavaScript execution with timeouts to stop runaway code
 
-## Currently Learning
-
-I'm currently exploring:
-
-- RAG and LLM applications
-- Agentic AI
-- System Design
-- Backend architecture
-- Open Source development
+`React` `Node.js` `Socket.IO` `Yjs` `CodeMirror`
 
 ---
 
-## A Little More About Me
+## Stack
 
-I like learning things that I can actually build with.
-
-Most of the time, that means starting with an idea, getting stuck somewhere,
-figuring out why it doesn't work, and eventually making it work.
-
-I also enjoy problem solving [LeetCode](https://leetcode.com/u/arxhx7/)
-
-I'm still figuring out exactly what I want to specialize in — 
-so I'm trying different things and seeing what I enjoy.
+| | |
+|---|---|
+| **Languages** | C++ · TypeScript · JavaScript · Python |
+| **Backend** | Node.js · Express · FastAPI · REST · Socket.IO |
+| **Data** | MongoDB · PostgreSQL · Redis · ChromaDB |
+| **Frontend** | React · Tailwind CSS |
+| **AI** | RAG · LangChain · Gemini API · embeddings and vector search |
 
 ---
 
+## Problem solving
 
+800+ DSA problems solved · LeetCode rating 1538 · 2nd place at Code Relay (Cybernauts Society)
 
+---
+
+## Exploring next
+
+System design · agentic AI · distributed systems · more open source
+
+---
